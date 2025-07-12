@@ -1,3 +1,4 @@
+-- Creating stored procedure in order to streamline repetitive tasks in SQL
 ALTER PROCEDURE GetCustomerSummary @Country NVARCHAR(50) = 'USA'
 AS
 
